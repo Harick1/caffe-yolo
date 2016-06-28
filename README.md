@@ -1,6 +1,6 @@
 # CAFFE for YOLO
 
-## Referebce
+## Reference
 
 > You Only Look Once: Unified, Real-Time Object detection
 
