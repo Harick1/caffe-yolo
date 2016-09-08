@@ -6,6 +6,8 @@
 
 > http://arxiv.org/abs/1506.02640
 
+> http://www.yeahkun.com/2016/09/06/object-detection-you-only-look-once-caffe-shi-xian/
+
 ## Usage
 
 ### Data preparation
