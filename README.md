@@ -32,4 +32,5 @@
   # if everything goes well, the map of gnet_yolo_iter_32000.caffemodel may reach ~56.
   cd examples/yolo
   ./test.sh model_path gpu_id
+  The model is here (link: https://pan.baidu.com/s/1jHAN6xK password: kvee)
 ```
