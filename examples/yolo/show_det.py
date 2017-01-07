@@ -81,6 +81,7 @@ def show_boxes(im_path, boxes, thresh=0.5, show=0):
     cv2.imwrite("out.jpg", im)
 
 def det(model, im_path, show=0):
+  '''forward processing'''
   im = cv2.imread(im_path)
   im = cv2.resize(im, (448, 448))
   im = np.require(im.transpose((2, 0, 1)), dtype=np.float32)
